@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main">
+
+    <Drawing_Game.DoodleCanvas
+        android:layout_width="match_parent"
+        android:id="@+id/first_canvas"
+        android:layout_height="400px"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Color"
+        android:layout_below="@id/first_canvas"
+        android:id="@+id/change_color_btn"
+        android:background="@android:color/holo_green_light"
+    />
+    
+    
+  
+
+</RelativeLayout>

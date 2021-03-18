@@ -1,0 +1,9 @@
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\bin\Release\netcoreapp2.1\DrawingCL.deps.json
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\bin\Release\netcoreapp2.1\DrawingCL.dll
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\bin\Release\netcoreapp2.1\DrawingCL.pdb
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.csprojAssemblyReference.cache
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.csproj.CoreCompileInputs.cache
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.AssemblyInfoInputs.cache
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.AssemblyInfo.cs
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.dll
+C:\Users\lukam\source\repos\DrawingGameServer\DrawingCL\obj\Release\netcoreapp2.1\DrawingCL.pdb
